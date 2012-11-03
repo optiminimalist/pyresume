@@ -1,0 +1,138 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/*@page{
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+}*/
+/*@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/s-BiyweUPV0v-yRb-cjciL3hpw3pgy2gAi-Ip7WPMi0.woff') format('woff');
+}*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+		html {
+			margin:0;
+			padding:0;
+			width:100%;
+			height:100%;
+		}
+		div /*section, .subsection*/
+		{
+			width:100%;
+		}
+		body {
+
+			font-family: LucidaGrande;
+  			font-size:8.5pt;
+  			line-height:11.5pt;
+  			width:100%;
+
+		}
+		#page {
+			width:206mm;
+/*			height:279mm;
+*/			/*width:216mm;
+			height:279mm;*/
+			/*border:1px solid black;*/
+
+		}
+
+		header {
+			text-align: center;
+			margin-bottom:10pt;
+		}
+
+		header h1 {
+			line-height:16pt;
+			font-size: 16pt;
+			margin-bottom: 3pt;
+			font-weight:bold;
+		}
+		header p{
+
+		}
+
+		section {
+			border-bottom:1pt solid #000;
+			margin:0 40pt;
+			margin-bottom:8pt;
+		}
+
+		section:last-child { border:0;}
+
+		section h2 {
+			font-weight:bolder;
+			margin-bottom:5pt;
+		}
+
+		.subsection {
+			margin-bottom:5pt;
+		}
+		.subsection h3 {
+			margin-bottom:3pt;
+
+		}
+		.subsection h3 strong {
+			font-weight:bold;
+		}
+
+		.subsection p, .subsection ul {
+			margin:0 30pt;
+			margin-bottom:0pt;
+		}
+
+		.subsection ul {
+			margin-top:3pt;
+		}
+
+		.subsection ul {
+			list-style-type: disc;
+		}

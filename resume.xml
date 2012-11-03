@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<resume>
+	<personal>
+		<name>Michael Luckeneder</name>
+		<address>16 Crails Lane, St Andrews, KY16 9NR, UK</address>
+		<phone>+44 7738 665160</phone>
+		<email>michael@luckeneder.net</email>
+
+		<urls>
+			<url>linkd.in/PkhCPe</url>
+			<url>michael.luckeneder.net</url>
+		</urls>
+	</personal>
+
+	<section>
+
+		<name>EDUCATION</name>
+		<subsection>
+			<name>University of Virginia</name>
+			<location>Charlottesville, VA</location>
+			<time>2011 - 2012</time>
+			<description>
+				<p>Exchange student, BS Computer Science and Economics</p>
+			</description>
+		</subsection>
+
+		<subsection>
+			<name>University of St Andrews</name>
+			<location>St Andrews, Scotland, UK</location>
+			<time>2009 - 2013</time>
+			<description>
+				<p>Majors: Computer Science and Economics (equivalent GPA: 3.76)</p>
+				<p>BSc (Hons) expected June 2013</p>
+				<p>Thesis: 'Strategies for improving the performance of data-intensive distributed systems' (Python, AWS)</p>
+				<p>Deans' List and 2 class medals for outstanding academic achievement</p>
+			</description>
+		</subsection>
+
+
+
+	</section>
+
+	
+</resume>
