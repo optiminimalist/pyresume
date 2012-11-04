@@ -1,5 +1,6 @@
 source :rubygems
 
-gem 'ruby-xslt'
 gem 'nokogiri'
 gem 'sinatra'
+gem 'wkhtmltopdf-binary'
+gem 'pdfkit'
