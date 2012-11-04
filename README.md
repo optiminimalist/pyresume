@@ -7,7 +7,8 @@ Modify the resume
 -----------------
 
 Just open the file
-	resume.xml
+
+    resume.xml
 
 The tags should be straight-forward to understand and change.
 
@@ -15,9 +16,11 @@ Build the resume
 ----------------
 
 First install dependencies
-	bundle install
+
+    bundle install
 
 and then simply run the rake task
+
 	rake resume:build
 
-This will create an output folder containing the finished resume.
+This will create an output folder containing your finished resume.
