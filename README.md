@@ -1,7 +1,7 @@
 XML-Resume
 ==========
 
-A simple way to specify a resume in XML and convert it to multiple formats. At the moment, HTML and PDF are support. Plain text is in the works!
+A simple way to specify a resume in XML and convert it to multiple formats. At the moment, Plain text, HTML and PDF are supported.
 
 Modify the resume
 -----------------
