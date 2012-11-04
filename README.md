@@ -1,4 +1,4 @@
-xml-resume
+XML-Resume
 ==========
 
-XML Schema for resumes
+== XML Schema for resumes
