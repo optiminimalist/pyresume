@@ -171,7 +171,15 @@ table {
               <h2><xsl:value-of select="name"/></h2>
           <xsl:for-each select="subsection">
              <div class="subsection">
-                <h3><strong><xsl:value-of select="name"/></strong>, <xsl:value-of select="location"/>, <xsl:value-of select="time"/></h3>
+                <h3>
+                  <strong><xsl:value-of select="name"/></strong>
+                  <xsl:if test="location">
+                    ,<xsl:value-of select="location"/>
+                  </xsl:if>
+                  <xsl:if test="time">
+                    ,<xsl:value-of select="time"/>
+                  </xsl:if>
+                </h3>
 
                <xsl:for-each select="description/*">
                 <xsl:copy-of select="." />

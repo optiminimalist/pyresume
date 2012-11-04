@@ -48,5 +48,129 @@
 		
 	</section>
 
+	<section>
+		<name>WORK EXPERIENCE</name>
+
+		<subsection>
+			<name>Co-Founder / CEO</name>
+			<location>filuan network solutions GbR (filuan.net), Linz, Austria</location>
+			<time>Feb 2010 - present</time>
+			<description>
+				<p>Co-founded the business to develop and market low-cost WiFi hotspot systems to schools and hotels. The systems use a custom-made firmware and management server/console (based on openWRT, Ubuntu and Ruby)</p>
+
+				<ul>
+					<li>Successfully sold and deployed 2 systems in the first two months with an excellent reliability record</li>
+					<li>Significantly reduced cost (up to 70%) by using and modifiying existing open source projects</li>
+					<li>Improved the delivered bandwidth by 50% through implementing QoS with custom L7 filters</li>
+				</ul>
+			</description>
+		</subsection>
+
+		<subsection>
+			<name>Civil Servant</name>
+			<location>Volkshilfe Refugee Care, Linz, Austria</location>
+			<time>Nov 2008 - Jul 2009</time>
+			<description>
+				<p>Worked at a refugee care center in lieu of compulsory military service. While there, I was put in charge of developing the in-house book-keeping and accounting system (based on MS Access / VBScript), which is still used today</p>
+
+				<ul>
+					<li>Reverse-engineered a previously used accounting system to provide consistent functionality</li>
+					<li>Nearly doubled employee productivity during common workflows (using scripts and stream-lined UIs)</li>
+				</ul>
+			</description>
+		</subsection>
+
+
+		<subsection>
+			<name>Software Development Intern</name>
+			<location>KEPLER SOCIETY, Linz, Austria</location>
+			<time>Summers 2008 - 2012</time>
+			<description>
+				<p>Maintained a custom-made legacy CMS and CRM used by the Johannes Kepler University Linz Alumni Association (PHP/MySQL)</p>
+
+				<ul>
+					<li>Increased CRM performance by almost 200% through restructuring the MySQL database and stored procedures</li>
+					<li>Found and fixed a major bug in the university's LAMP stack that affected outgoing e-mails and had not been spotted by senior IT staff</li>
+				</ul>
+			</description>
+		</subsection>
+
+
+
+	</section>
+
+
+
+
+
+<section>
+
+			<name>PROJECTS & EXTRA-CURRICULARS</name>
+			<subsection>
+				<name>Lead Developer</name>
+				<location>saintlet.com</location>
+				<time>Aug 2011 - present</time>
+				<description>
+					<p>	Creating a high-quality online market-place and event list for my university community (Ruby on Rails)</p>
+
+					<ul>
+						<li>In charge of all stages of web app development - database design through UI to deployment</li>
+						<li>Implemented automatic Facebook API mining &rarr; 50% more relevant events listed than competing websites</li>
+					</ul>
+
+				</description>
+			</subsection>
+
+			<subsection>
+				<name>Co-Developer / Head of Digital Marketing</name>
+				<location>St Andrews Textbook Market</location>
+				<time>Jan 2011 - May 2012</time>
+				<description>
+					<p>Co-developed software to manage a textbook database for use in a charity used textbook market (PHP/MySQL)</p>
+
+					<ul>
+						<li>Scaled and optimized database to be able to efficiently manage $60,000 worth of assets</li>
+						<li>Increased efficieny of data migration from legacy data sources by 100% through pattern matching algorithms</li>
+					</ul>
+
+				</description>
+			</subsection>
+			
+			<subsection>
+				<name>Pianist and Pipe Organist</name>
+				<location>various choirs in Austria</location>
+				<time>May 2005 - present</time>
+				<description>
+					<p>Soloist (highest piano grade in Austrian music schools) and accompanist for choirs at concerts, musicals and theatre performances (around 15-20 major performances every year)</p>
+
+					<ul>
+						<li>Successfully acted as musical director for a theatre production with 40 actors and 15 performances</li>
+						<li>Organized and performed at 2 panflute/piano concerts with an audience of more than 300 people</li>
+					</ul>
+
+				</description>
+			</subsection>
+			
+			<subsection>
+				<name>Member</name>
+
+				<description>
+					<ul>
+						<li>Psi Chapter of Phi Sigma Kappa (2012 - present)</li>
+						<li>University of St Andrews Karate Club (2012 - present)</li>
+						<li>Rotary Interact Club Linz (2006-2007) - Foundation President</li>
+
+					</ul>
+
+				</description>
+			</subsection>
+			
+
+			
+		
+
+		</section>
+
+
 	
 </resume>
