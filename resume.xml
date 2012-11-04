@@ -105,17 +105,17 @@
 
 <section>
 
-			<name>PROJECTS & EXTRA-CURRICULARS</name>
+			<name>PROJECTS &amp; EXTRA-CURRICULARS</name>
 			<subsection>
 				<name>Lead Developer</name>
 				<location>saintlet.com</location>
 				<time>Aug 2011 - present</time>
 				<description>
-					<p>	Creating a high-quality online market-place and event list for my university community (Ruby on Rails)</p>
+					<p>Creating a high-quality online market-place and event list for my university community (Ruby on Rails)</p>
 
 					<ul>
 						<li>In charge of all stages of web app development - database design through UI to deployment</li>
-						<li>Implemented automatic Facebook API mining &rarr; 50% more relevant events listed than competing websites</li>
+						<li>Implemented automatic Facebook API mining - 50% more relevant events listed than competing websites</li>
 					</ul>
 
 				</description>
