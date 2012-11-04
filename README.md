@@ -23,4 +23,4 @@ and then simply run the rake task
 
 	rake resume:build
 
-This will create an output folder containing the finished resume.
+This will create an output folder containing your finished resume.
