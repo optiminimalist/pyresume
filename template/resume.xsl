@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="resume">
 <html>
 <head>
-  <title></title>
+  <title>Resume</title>
 
     <style type="text/css">
       /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -173,11 +173,9 @@ table {
              <div class="subsection">
                 <h3>
                   <strong><xsl:value-of select="name"/></strong>
-                  <xsl:if test="location">
-                    ,<xsl:value-of select="location"/>
+                  <xsl:if test="location">, <xsl:value-of select="location"/>
                   </xsl:if>
-                  <xsl:if test="time">
-                    ,<xsl:value-of select="time"/>
+                  <xsl:if test="time">, <xsl:value-of select="time"/>
                   </xsl:if>
                 </h3>
 

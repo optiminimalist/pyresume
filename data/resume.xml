@@ -2,8 +2,8 @@
 <resume>
 	<personal>
 		<name>Michael Luckeneder</name>
-		<address>16 Crails Lane, St Andrews, KY16 9NR, UK</address>
-		<phone>+44 7738 665160</phone>
+		<address>Feldbrunnenstraße 28, 20148 Hamburg, Germany</address>
+		<phone>+49 176 75612985</phone>
 		<email>michael@luckeneder.net</email>
 
 		<urls>
@@ -16,35 +16,16 @@
 
 		<name>EDUCATION</name>
 		<subsection>
-			<name>University of Virginia</name>
-			<location>Charlottesville, VA</location>
-			<time>2011 - 2012</time>
-			<description>
-				<p>Exchange student, BS Computer Science and Economics</p>
-			</description>
-		</subsection>
-
-		<subsection>
 			<name>University of St Andrews</name>
 			<location>St Andrews, Scotland, UK</location>
 			<time>2009 - 2013</time>
 			<description>
-				<p>Majors: Computer Science and Economics (equivalent GPA: 3.76)</p>
-				<p>BSc (Hons) expected June 2013</p>
+				<p>BSc (Hons), Computer Science and Economics, First Class (highest honors)</p>
 				<p>Thesis: 'Strategies for improving the performance of data-intensive distributed systems' (Python, AWS)</p>
-				<p>Deans' List and 2 class medals for outstanding academic achievement</p>
+				<p>3x Deans' List and 3 class medals for outstanding academic achievement</p>
 			</description>
 		</subsection>
 
-		<subsection>
-			<name>Johannes Kepler University</name>
-			<location>Linz, Austria</location>
-			<time>2004 - 2006</time>
-			<description>
-				<p>At ages 14-16, took several CS courses at BS level</p>
-				<p>Achieved top 5% grades in all exams </p>
-			</description>
-		</subsection>
 		
 	</section>
 
@@ -52,9 +33,52 @@
 		<name>WORK EXPERIENCE</name>
 
 		<subsection>
+			<name>Software Engineer</name>
+			<location>Yelp GmbH, Hamburg, Germany</location>
+			<time>Oct 2014 - present</time>
+			<description>
+				<p>Engineering and developing solutions to increase small business owner engagement (Python, JavaScript)</p>
+
+				<ul>
+					<li>Contributed to the ongoing efforts to launch the 'Yelp Deals' product in Europe</li>
+					<li>Acting as project lead for a new UI component which is projected to significantly increase business data quality</li>
+					<li>Effectively communicating knowledge acquired at the SF office to help fellow engineers achieve maximum productivity</li>
+				</ul>
+			</description>
+		</subsection>
+		<subsection>
+			<name>Software Engineer Intern</name>
+			<location>Yelp, Inc., San Francisco, CA</location>
+			<time>Oct 2013 - Sep 2014</time>
+			<description>
+				<p>Planned and built scalable and efficient backend code to help Community Managers engage the Yelp community (Python, JavaScript)</p>
+
+				<ul>
+					<li>Led effort to refactor major user watchlist to a scalable service-oriented architecture</li>
+					<li>Reengineered business duplicate listing detection engine to significantly improve data quality at Yelp</li>
+					<li>Built several UI components resulting in productivity improvements for our community managers</li>
+				</ul>
+			</description>
+		</subsection>
+
+		<subsection>
+			<name>Software Developer Intern</name>
+			<location>University of St Andrews - CAPOD</location>
+			<time>Summers 2008 - 2012</time>
+			<description>
+				<p>Maintained a custom-made legacy CMS and CRM used by the Johannes Kepler University Linz Alumni Association (PHP/MySQL)</p>
+
+				<ul>
+					<li>Increased CRM performance by almost 200% through restructuring the MySQL database and stored procedures</li>
+					<li>Found and fixed a major bug in the university's LAMP stack that affected outgoing e-mails and had not been spotted by senior IT staff</li>
+				</ul>
+			</description>
+		</subsection>
+
+		<subsection>
 			<name>Co-Founder / CEO</name>
 			<location>filuan network solutions GbR (filuan.net), Linz, Austria</location>
-			<time>Feb 2010 - present</time>
+			<time>Feb 2010 - Mar 2013</time>
 			<description>
 				<p>Co-founded the business to develop and market low-cost WiFi hotspot systems to schools and hotels. The systems use a custom-made firmware and management server/console (based on openWRT, Ubuntu and Ruby)</p>
 
@@ -65,7 +89,7 @@
 				</ul>
 			</description>
 		</subsection>
-
+<!-- 
 		<subsection>
 			<name>Civil Servant</name>
 			<location>Volkshilfe Refugee Care, Linz, Austria</location>
@@ -79,9 +103,9 @@
 				</ul>
 			</description>
 		</subsection>
+ -->
 
-
-		<subsection>
+		<!-- <subsection>
 			<name>Software Development Intern</name>
 			<location>KEPLER SOCIETY, Linz, Austria</location>
 			<time>Summers 2008 - 2012</time>
@@ -93,7 +117,9 @@
 					<li>Found and fixed a major bug in the university's LAMP stack that affected outgoing e-mails and had not been spotted by senior IT staff</li>
 				</ul>
 			</description>
-		</subsection>
+		</subsection> -->
+
+
 
 
 
@@ -136,7 +162,7 @@
 				</description>
 			</subsection>
 			
-			<subsection>
+		<!-- 	<subsection>
 				<name>Pianist and Pipe Organist</name>
 				<location>various choirs in Austria</location>
 				<time>May 2005 - present</time>
@@ -158,14 +184,14 @@
 					<ul>
 						<li>Psi Chapter of Phi Sigma Kappa (2012 - present)</li>
 						<li>University of St Andrews Karate Club (2012 - present)</li>
-						<li>Rotary Interact Club Linz (2006-2007) - Foundation President</li>
+						<li>Rotary Interact Club Linz (2006 - 2007) - Foundation President</li>
 
 					</ul>
 
 				</description>
 			</subsection>
 			
-
+ -->
 			
 		
 

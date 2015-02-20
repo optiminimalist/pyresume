@@ -23,7 +23,7 @@ module Resume
 	
 	def build_pdf
 		build_html
-		k = PDFKit.new(File.read('output/resume.html'),page_size: "Letter", margin_top:"0.5in",margin_bottom:"0.3in",margin_left:"0.1in",margin_right:"0.1in")
+		k = PDFKit.new(File.read('output/resume.html'), page_size: "Letter", margin_top:"0.5in",margin_bottom:"0.3in",margin_left:"0.1in",margin_right:"0.1in")
 
 		f = File.open("output/resume.pdf", "w") do |file|
 			file.puts k.to_pdf
