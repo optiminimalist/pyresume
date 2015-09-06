@@ -1,4 +1,4 @@
-XML Resume
+pyresume
 ==========
 
 This tiny script lets you specify a resume in XML and XSL and converts it into various output formats (currently HTML and PDF)
