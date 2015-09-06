@@ -1,26 +1,29 @@
-XML-Resume
+XML Resume
 ==========
 
-A simple way to specify a resume in XML and convert it to multiple formats. At the moment, Plain text, HTML and PDF are supported.
+This tiny script lets you specify a resume in XML and XSL and converts it into various output formats (currently HTML and PDF)
 
-Modify the resume
------------------
+Modify resume template
+---------------------
 
-Just open the file
+Edit this XML file:
 
-    resume.xml
+    templates/resume.xml
 
-The tags should be straight-forward to understand and change.
+
+Modify resume template
+---------------------
+
+Edit this XML file:
+
+    templates/resume.xml
+
 
 Build the resume
 ----------------
 
-First install dependencies
+Simply run
 
-    bundle install
+	make
 
-and then simply run the rake task
-
-	rake resume:build
-
-This will create an output folder containing your finished resume.
+It will build a docker container and put the generated resume files in the output folder.
