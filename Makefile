@@ -1,4 +1,4 @@
-DOCKER_RUN := docker run -v `pwd`:/data -it mluck/resume
+DOCKER_RUN := docker run --rm -v `pwd`:/data -it mluck/resume
 
 all: output/resume.html output/resume.pdf
 
